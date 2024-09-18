@@ -1,12 +1,14 @@
 ## Olá! Eu sou Leonardo Araújo 👋
 
-[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-ara%C3%BAjo-b82a98266/)
+[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-ara%C3%BAjo-b82a98266/)  
 
 <div>
-  <a href=" ></a>
+  <a href="https://leonardo">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leonardo-arau&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-arau&layout=compact&langs_count=16&theme=dracula" />
+  </a>
 </div>
-  
-[![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=Leonardo-arau&show_icons=true&theme=tokyonight)
+
 
 ### 🚀 Tecnologias que uso no meu dia
 
