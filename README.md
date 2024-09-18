@@ -1,6 +1,6 @@
 ## Olá! Eu sou Leonardo Araújo 🚀
 
-[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/leonardo-araújo-b82a98266)
+[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-ara%C3%BAjo-b82a98266/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](leon75912@gmail.com)
 
 ![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=Leonardo-arau&show_icons=true&theme=tokyonight)
