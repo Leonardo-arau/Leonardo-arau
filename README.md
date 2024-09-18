@@ -16,6 +16,7 @@
 Apaixaonado por tecnologia, educação e por mudar a vida das pessoas através da programação 
 
 ### ⚡ Curiosidades
+- 🔭 Estou buscando minha primeira oportunidade como desenvolvedor ou em áreas afins
 - 💻 Atualmente trabalhando com ASP.NET Core, MySQL e APIs Web
 - 🎓 Estudando no 4º período de Ciência da Computação na UNINOVE
 - 🌱 Aprendendo mais sobre DevOps e Microsserviços
