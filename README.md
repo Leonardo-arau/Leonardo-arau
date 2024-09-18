@@ -13,4 +13,12 @@
   <img aligm="center" alt="c#" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
   <img aligm="center" alt=".net core" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
   <img aligm="center" alt="mysql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
-</div>
+</div><br/>
+Apaixaonado por tecnologia, educação e por mudar a vida das pessoas através da programação 
+
+### ⚡ Curiosidades
+- 💻 Atualmente trabalhando com ASP.NET Core, MySQL e APIs Web
+- 🎓 Estudando no 4º período de Ciência da Computação na UNINOVE
+- 🌱 Aprendendo mais sobre DevOps e Microsserviços
+- 📚 Cursando **Web API ASP.NET Core Essencial (.NET 8)** e outros cursos de C# e Engenharia de Banco de Dados
+- 📧 Contato: [leon75912@gmail.com](mailto:leon75912@gmail.com)
