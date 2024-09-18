@@ -23,3 +23,8 @@ Apaixaonado por tecnologia, educação e por mudar a vida das pessoas através d
 - 📧 Contato: [leon75912@gmail.com](mailto:leon75912@gmail.com)
 
  ## 🛠 Ferramentas que uso
+<div style="display: inline_block"><br/>
+  <img aligm="center" alt="git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" />
+  <img aligm="center" alt="Visual Studio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
+  <img aligm="center" alt="GitHub" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"
+</div><br/
