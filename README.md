@@ -21,6 +21,7 @@
   <img aligm="center" alt=".net core" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
   <img aligm="center" alt="mysql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
 </div><br/>
+  
 Apaixaonado por tecnologia, educação e por mudar a vida das pessoas através da programação 
 
 ### ⚡ Curiosidades
