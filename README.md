@@ -11,7 +11,6 @@
   </a>
 </div>
 
-
 ### 🚀 Tecnologias que uso no meu dia
 
 <div style="display: inline_block"><br/>
@@ -30,7 +29,7 @@ Apaixaonado por tecnologia, educação e por mudar a vida das pessoas através d
 - 🎓 Estudando no 4º período de Ciência da Computação na UNINOVE
 - 🌱 Aprendendo mais sobre DevOps e Microsserviços
 - 📚 Cursando **Web API ASP.NET Core Essencial (.NET 8)** e outros cursos de C# e Engenharia de Banco de Dados
-- 📧 Contato: [leon75912@gmail.com](mailto:leon75912@gmail.com)
+- 📧 Outras opções de contato: [leon75912@gmail.com](mailto:leon75912@gmail.com)
 
  ## 🛠 Ferramentas que uso
 <div style="display: inline_block"><br/>
